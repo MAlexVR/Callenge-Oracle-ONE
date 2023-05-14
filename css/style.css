@@ -129,6 +129,29 @@ footer {
   margin: 20px;
 }
 
+.redes {
+  display: flex;
+  justify-content: center;
+}
+
+.linkedin {
+  margin: 5px;
+  width: 48px;
+  height: 48px;
+  background-image: url(../img/linkedin.png);
+  background-position: center;
+  background-repeat: no-repeat;
+}
+
+.github {
+  margin: 5px;
+  width: 48px;
+  height: 48px;
+  background-image: url(../img/github.png);
+  background-position: center;
+  background-repeat: no-repeat;
+}
+
 /* Estilo responsivo para los divs de entrada y salida */
 @media (max-width: 768px) {
   .input,

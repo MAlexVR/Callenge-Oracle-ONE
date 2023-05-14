@@ -36,3 +36,5 @@ Un botón que copie el texto encriptado/desencriptado para la sección de transf
 
 - 14/05/2022 Creación del repositorio en GitHub y cargue de archivos fuente del repositorio local
 - 14/05/2022 Ajustes en README e index.html
+- 14/05/2022 Se agrega footer
+- 14/05/2022 Estructura en carpetas y ajustes en footer
