@@ -3,6 +3,9 @@ body {
   background-color: #f2f4fb;
   margin: 0;
   padding: 0;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
 }
 
 /* Estilo para la etiqueta main */
@@ -111,6 +114,19 @@ button:hover,
 #limpiar:hover {
   background-color: #1d3a6b;
   color: white;
+}
+
+footer {
+  background-color: #1d3a6b;
+  text-align: center;
+  padding: 40px;
+  margin-top: auto;
+}
+
+.copyright {
+  color: #ffffff;
+  font-size: 13px;
+  margin: 20px;
 }
 
 /* Estilo responsivo para los divs de entrada y salida */
