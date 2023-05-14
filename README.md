@@ -1,6 +1,6 @@
-# Callenge-Oracle-ONE
+# Callenge-Oracle-ONE-Alura
 
-Desafío encriptador de texto Alura - Oracle ONE
+Challenge ONE Sprint 01: Construye un encriptador de texto con Javascript de texto
 
 ## Código realizado en JavaScript, HTML5 y CSS.
 
@@ -35,3 +35,4 @@ Un botón que copie el texto encriptado/desencriptado para la sección de transf
 ## Changelog
 
 - 14/05/2022 Creación del repositorio en GitHub y cargue de archivos fuente del repositorio local
+- 14/05/2022 Ajustes en README e index.html
