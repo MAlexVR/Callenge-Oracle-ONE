@@ -21,7 +21,8 @@ header {
   font-size: 2em;
   text-align: center;
   margin: 10px;
-  color: black;
+  color: white;
+  background-color: #1d3a6b;
   padding: 20px;
 }
 
