@@ -29,11 +29,13 @@ header {
 /* Estilo para las instrucciones */
 .text-instructions {
   font-size: 1.7em;
+  margin: 20px;
 }
 
 /* Estilo para los divs de entrada y salida */
 .input,
 .output {
+  height: 400px;
   display: inline-block;
   width: 45%;
   padding: 20px;
@@ -43,18 +45,22 @@ header {
 
 /* Estilo para el label de entrada */
 .input label {
+  height: 10%;
   display: block;
   text-align: center;
   font-size: 1.5em;
   font-weight: bold;
+  margin: 10px;
 }
 
 /* Estilo para el label de salida */
 .output label {
+  height: 10%;
   display: block;
   text-align: center;
   font-size: 1.5em;
   font-weight: bold;
+  margin: 10px;
 }
 
 /* Estilo para los textareas */
