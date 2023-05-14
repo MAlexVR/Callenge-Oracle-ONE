@@ -39,3 +39,4 @@ Un botón que copie el texto encriptado/desencriptado para la sección de transf
 - 14/05/2022 Se agrega footer
 - 14/05/2022 Estructura en carpetas y ajustes en footer
 - 14/05/2022 Ajustes en rutas GitHub Pages
+- 14/05/2022 Cambios en los botones
