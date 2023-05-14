@@ -1,0 +1,122 @@
+/* Estilo para el body */
+body {
+  background-color: #f2f4fb;
+  margin: 0;
+  padding: 0;
+}
+
+/* Estilo para la etiqueta main */
+main {
+  text-align: center;
+  width: 90%;
+  margin: auto;
+}
+
+/* Estilo para el header */
+header {
+  font-weight: bold;
+  font-size: 2em;
+  text-align: center;
+  margin: 10px;
+  color: black;
+  padding: 20px;
+}
+
+/* Estilo para los divs de entrada y salida */
+.input,
+.output {
+  display: inline-block;
+  width: 45%;
+  padding: 20px;
+  box-sizing: border-box;
+  vertical-align: top;
+}
+
+/* Estilo para el label de entrada */
+.input label {
+  display: block;
+  text-align: center;
+  font-size: 1.5em;
+  font-weight: bold;
+}
+
+/* Estilo para el label de salida */
+.output label {
+  display: block;
+  text-align: center;
+  font-size: 1.5em;
+  font-weight: bold;
+}
+
+/* Estilo para los textareas */
+textarea {
+  margin: 10px;
+  width: 100%;
+  height: 200px;
+  margin-bottom: 10px;
+  padding: 10px;
+  box-sizing: border-box;
+  font-size: 2em;
+}
+
+/* Estilo para los botones */
+button {
+  background-color: #333;
+  color: white;
+  border: none;
+  padding: 10px;
+  margin-right: 10px;
+  cursor: pointer;
+  border-radius: 10px;
+}
+
+/* Estilo para el botón de encriptar */
+#encriptar {
+  background-color: #1d3a6b; /* El color del botón de encriptar debe ser 1D3A6B */
+  color: white;
+  border: 1px solid #1d3a6b;
+}
+
+#encriptar:hover {
+  background-color: #d8dfe8; /* El hover color del botón de encriptar debe ser blanco */
+  color: #1d3a6b; /* El texto hover del botón de encriptar debe ser de color 1D3A6B */
+  border: 1px solid #1d3a6b; /* El borde hover del botón de encriptar debe ser de color 1D3A6B */
+}
+
+/* Estilo para el botón de desencriptar */
+#desencriptar {
+  background-color: #d8dfe8;
+  border: 1px solid #1d3a6b;
+  color: #1d3a6b;
+}
+
+/* Estilo para el botón de copiar */
+#copiar {
+  background-color: white;
+  color: #1d3a6b;
+  border: 1px solid #1d3a6b;
+}
+
+/* Estilo para el botón de limpiar */
+#limpiar {
+  background-color: white;
+  color: #1d3a6b;
+  border: 1px solid #1d3a6b;
+}
+
+/* Estilo para el hover de los botones */
+button:hover,
+#desencriptar:hover,
+#copiar:hover,
+#limpiar:hover {
+  background-color: #1d3a6b;
+  color: white;
+}
+
+/* Estilo responsivo para los divs de entrada y salida */
+@media (max-width: 768px) {
+  .input,
+  .output {
+    width: 90%;
+  }
+}
