@@ -26,6 +26,11 @@ header {
   padding: 20px;
 }
 
+/* Estilo para las instrucciones */
+.text-instructions {
+  font-size: 1.5em;
+}
+
 /* Estilo para los divs de entrada y salida */
 .input,
 .output {
