@@ -160,4 +160,9 @@ footer {
   .output {
     width: 90%;
   }
+
+  button {
+    width: 100px;
+    font-weight: bold;
+  }
 }
