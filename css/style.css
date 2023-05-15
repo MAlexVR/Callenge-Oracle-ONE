@@ -45,7 +45,7 @@ header {
 
 /* Estilo para el label de entrada */
 .input label {
-  height: 10%;
+  height: 20%;
   display: block;
   text-align: center;
   font-size: 1.5em;
@@ -55,7 +55,7 @@ header {
 
 /* Estilo para el label de salida */
 .output label {
-  height: 10%;
+  height: 20%;
   display: block;
   text-align: center;
   font-size: 1.5em;
